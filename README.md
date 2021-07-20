@@ -9,3 +9,5 @@ Techniques tried and used:
 - XGBoost for modeling
 - Cross Validation for evaluation
 - Model Stacking
+
+See `final_report.pdf` for full writeup.
